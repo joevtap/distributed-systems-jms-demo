@@ -71,7 +71,7 @@ To build the project from source:
 
 ```bash
 # Clone the repository
-git clone https://github.com/joevtap/distributed-systems-jms-demo jmsapp
+git clone git@github.com:joevtap/distributed-systems-jms-demo.git jmsapp
 cd jmsapp
 
 # Build with Maven
