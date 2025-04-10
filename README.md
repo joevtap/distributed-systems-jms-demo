@@ -52,7 +52,13 @@ Default login credentials:
 
 Use the provided script:
 ```bash
-chmod +x run.sh  # Make script executable if needed
+# Clone the repository
+git clone git@github.com:joevtap/distributed-systems-jms-demo.git jmsapp
+cd jmsapp
+
+# Make script executable
+chmod +x run.sh 
+
 ./run.sh
 ```
 
