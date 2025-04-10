@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+target/
+classes/
+build/
+
+# Log files
+*.log
+logs/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Mac OS
+.DS_Store
