@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram name="Page-1" id="S5CBqG7tsu6plzy2ANm_">
-    <mxGraphModel dx="1428" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1680" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,8 +57,9 @@
           <mxGeometry x="20" y="450" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mc2gOUiGNjCaSC-jxRKQ-1" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;div&gt;JMS&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;flowAnimation=0;shadow=0;jumpStyle=none;startSize=0;endSize=0;entryX=0;entryY=0;entryDx=60;entryDy=240;entryPerimeter=0;" edge="1" parent="1" source="4-t4JI5RoaZplitB_3_X-6" target="4-t4JI5RoaZplitB_3_X-15">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1294" y="1" relative="1" as="geometry">
             <mxPoint x="270" y="316" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mc2gOUiGNjCaSC-jxRKQ-3" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;div&gt;HTTP&lt;/div&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;flowAnimation=0;shadow=0;jumpStyle=none;startSize=0;endSize=0;entryX=0;entryY=0;entryDx=60;entryDy=240;entryPerimeter=0;exitX=0;exitY=0;exitDx=35;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mc2gOUiGNjCaSC-jxRKQ-2" target="4-t4JI5RoaZplitB_3_X-15">
