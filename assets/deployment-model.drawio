@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
   <diagram name="Page-1" id="S5CBqG7tsu6plzy2ANm_">
-    <mxGraphModel dx="2040" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1190" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
             <mxPoint x="40" y="160" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4-t4JI5RoaZplitB_3_X-50" value="&amp;lt;&amp;lt;container&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;Publisher Service&lt;br&gt;&lt;/b&gt;&lt;font face=&quot;Monospace&quot;&gt;{ Base_Image=eclipse-temurin:17-jre }&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;recursiveResize=0;" parent="4-t4JI5RoaZplitB_3_X-10" vertex="1">
+        <mxCell id="4-t4JI5RoaZplitB_3_X-50" value="&amp;lt;&amp;lt;container&amp;gt;&amp;gt;&lt;div&gt;&lt;b&gt;Subscriber Service&lt;br&gt;&lt;/b&gt;&lt;font face=&quot;Monospace&quot;&gt;{ Base_Image=eclipse-temurin:17-jre }&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;recursiveResize=0;" parent="4-t4JI5RoaZplitB_3_X-10" vertex="1">
           <mxGeometry x="40" y="330" width="240" height="260" as="geometry" />
         </mxCell>
         <mxCell id="4-t4JI5RoaZplitB_3_X-52" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;JMSApp.jar&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;fillColor=#fad7ac;strokeColor=#b46504;rounded=0;" parent="4-t4JI5RoaZplitB_3_X-10" vertex="1">
