@@ -4,6 +4,7 @@ A Java Messaging Service (JMS) application that demonstrates publisher-subscribe
 
 ## Table of Contents
 - [Overview](#overview)
+- [Deployment Model](#deployment-model)
 - [Prerequisites](#prerequisites)
 - [Running Locally](#running-locally)
 - [Building the Project](#building-the-project)
@@ -17,6 +18,10 @@ A Java Messaging Service (JMS) application that demonstrates publisher-subscribe
 This application demonstrates a message-based communication system using JMS (Java Messaging Service) with Apache ActiveMQ Artemis as the message broker. The application supports both publisher and subscriber roles, allowing for asynchronous communication and file processing.
 
 ![demo.gif](assets/demo.gif)
+
+## Deployment Model
+
+![deployment-model](https://github.com/user-attachments/assets/053d5b32-3448-4b69-856e-c5eee829775c)
 
 ## Prerequisites
 
